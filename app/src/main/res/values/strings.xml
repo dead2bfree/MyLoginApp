@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyLoginApp</string>
+    <string name="string_google">Login with Google</string>
+    <string name="string_facebook">Login with Facebook</string>
+    <string name="string_pwd">Password</string>
+    <string name="string_user">Username/Email/Phone</string>
+    <string name="string_forgot_pwd">Forgot Password</string>
+    <string name="string_signup">Sign Up\!</string>
+    <string name="btn_Login">Login</string>
+    <string name="string_SubTitle">Merawat Bumi Lestari</string>
+</resources>
